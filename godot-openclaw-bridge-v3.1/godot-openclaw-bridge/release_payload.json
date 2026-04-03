@@ -1,0 +1,8 @@
+{
+  "tag_name": "v3.0.0",
+  "target_commitish": "main",
+  "name": "🚀 v3.0.0 - Ultra-Fast with Script Bug Fix",
+  "body": "## ⚡ Performance\n- Connection pooling for 2-3x speedup\n- Batch operations support\n\n## 🔧 Fixed\n- Script reload bug - scripts appear immediately now\n\n## 🎮 New Commands\n- duplicate_node, reparent_node, rename_node\n- undo, redo, select_node\n- get_node_info with script verification\n\n## 🚀 Quick Start\n```bash\ngit clone https://github.com/pavlos1323456/godot-openclaw-bridge.git\ncd godot-openclaw-bridge\npython godot_bridge_v3.py\n```\n\nSee QUICKSTART.md for 60-second setup!",
+  "draft": false,
+  "prerelease": false
+}
